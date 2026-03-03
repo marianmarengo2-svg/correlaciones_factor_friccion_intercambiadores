@@ -18,12 +18,12 @@ El notebook incluye herramientas de visualización que permiten identificar el p
 ### 1. Diagrama de Moody desde la ecuación de Churchill
 Esta gráfica representa la transición del factor de fricción en función del número de Reynolds y la rugosidad relativa, validando el modelo matemático antes de aplicarlo a la carcasa.
 
-![Diagrama de Moody](img/moody_churchill.png)
+![Diagrama de Moody](img/diagrama_moody_churchill.png)
 
 ### 2. Comparativa de Arreglos: Triangular vs. Cuadrado
 En esta visualización se analiza el compromiso (*trade-off*) entre el coeficiente de transferencia de calor y la pérdida de carga para ambos arreglos geométricos.
 
-![Comparativa de Arreglos](img/comparativa_arreglos.png)
+![Comparativa de Arreglos](img/sensibilidad_arreglo_coeficientes_kern.png)
 
 ## Tecnologías Utilizadas
 * **Python:** Core del procesamiento y cálculos.
