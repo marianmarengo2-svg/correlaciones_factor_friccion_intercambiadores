@@ -12,15 +12,15 @@ El notebook incluye herramientas de visualización que permiten identificar el p
 
 A continuación se presentan los resultados de la simulación paramétrica realizada para el lado de la carcasa. Estas gráficas permiten identificar el comportamiento del sistema bajo diferentes configuraciones geométricas.
 
-### 1. Optimización de Bafles y Límite de Presión
+### 1. Diagrama de moody desde la ecuacion de Churchill 
 Esta gráfica muestra cómo el espaciado de bafles afecta la caída de presión y marca el límite de diseño permitido.
 
-![Optimización de Bafles](img/optimizacion_bafles.png)
+![Optimización de Bafles](img/diagrama_moody_churchill.png)
 
 ### 2. Comparativa de Arreglos: Triangular vs. Cuadrado
 En esta visualización se analiza el compromiso (*trade-off*) entre el coeficiente de transferencia de calor y la pérdida de carga para ambos arreglos.
 
-![Comparativa de Arreglos](img/comparativa_arreglos.png)
+![Comparativa de Arreglos](img/sensibilidad_arreglo_coeficientes_kern.png)
 
 ## Tecnologías Utilizadas
 * Python: Core del procesamiento y cálculos.
